@@ -16,6 +16,7 @@ public class CMPSC_221_Project {
      */
     public static void main(String[] args) {
         System.out.println("Im a new branch");
+        System.out.println("Made a token");
     }
     
     
